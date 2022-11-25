@@ -13,3 +13,4 @@ compare across forks - request가 완료되었으면 fork를 지워도 된다.
 
 - [x] 1. crosswalk
 - [x] 2. crosswalk
+- [x] 3. pynamu
